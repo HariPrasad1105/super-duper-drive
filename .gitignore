@@ -1,0 +1,15 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# React dependencies
+client/super-duper-drive/node_modules
+client/super-duper-drive/package-lock.json
+client/super-duper-drive/yarn.lock
+client/super-duper-drive/.pnp
+client/super-duper-drive/.pnp.js
+
+# Java Dependencies
+server/.mvn/
+server/.idea/
+server/target/
+server/HELP.md
+server/superduperdrive.iml
